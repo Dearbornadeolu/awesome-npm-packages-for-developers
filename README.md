@@ -150,6 +150,15 @@ Below are the Lists of Awesome NPM Packages Developers can Use on their Projects
 
   > The Swiper Package is a free and open source Javascript library that provides a powerful and flexible slider for web application, mobile web application and mobile native/hybrid apps. It's a modern touch slider which is focused only on the modern apps/platforms to bring the best experience and simplicity.
 
+- [TailwindCss](https://www.npmjs.com/package/tailwindcss)
+
+ > Tailwind CSS is a utility-first CSS framework that allows you to build custom styles for your web  projects without having to write a lot of CSS. It provides a set of pre-made classes that you can use to style your elements, such as padding, margin, colors, borders, and more.
+
+- [Vite](https://www.npmjs.com/package/vite)
+
+ > Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. It is based on esbuild, a JavaScript bundler written in Go that bundles dependencies 10 to 100 times faster than JavaScript-based bundlers.
+
+
 - [Yup](https://www.npmjs.com/package/yup)
 
   > A JavaScript library for object schema validation. Provides a simple API for defining and validating JavaScript objects, including validation of nested objects. Yup is often used in combination with Formik to perform validation on form inputs.
